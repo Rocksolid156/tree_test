@@ -1,0 +1,7 @@
+# ninja log v5
+3	446	7253709958484365	CMakeFiles/tree_data.dir/main.cpp.obj	a2aba46945cb1ee1
+3	376	7253716634581115	CMakeFiles/tree_data.dir/algor.cpp.obj	1666ad14a3fba2ce
+377	487	7253716635646437	tree_data.exe	41fcc1f161e8d222
+3	414	7253791280914228	CMakeFiles/tree_data.dir/main.cpp.obj	a2aba46945cb1ee1
+18	428	7253791281041521	CMakeFiles/tree_data.dir/algor.cpp.obj	1666ad14a3fba2ce
+428	1043	7253791282313450	tree_data.exe	41fcc1f161e8d222
